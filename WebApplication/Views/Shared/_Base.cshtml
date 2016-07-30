@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css/main.min.css")
+</head>
+<body>
+    <main class="container">
+        @RenderBody()
+    </main>
+
+    @Scripts.Render("~/Content/js/vendors.min.js")
+</body>
+</html>
