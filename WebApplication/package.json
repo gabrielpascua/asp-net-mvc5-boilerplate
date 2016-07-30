@@ -1,0 +1,23 @@
+{
+  "name": "MVC5Starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github/asp-net-mvc5-boilerplate.git"
+  },
+  "keywords": [ ],
+  "author": "Gabriel Pascua",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "jquery": "^3.1.0"
+  }
+}
