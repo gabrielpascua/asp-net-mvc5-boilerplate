@@ -2,5 +2,7 @@
 ### ASP.NET MVC 5(.2.3) Bootstrap Starter Project
 
 ## Includes
-* Bootstrap
-* jQuery
+* Bootstrap 3
+* jQuery 3
+* Grunt
+* Sass
